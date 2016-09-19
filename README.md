@@ -3,6 +3,8 @@
 This project contains application source code for Change Detection C library
 and related scripts.
 
+This is not on USGS-EROS/lcmap-change-detection-c
+
 
 ## Installation
 
